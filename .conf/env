@@ -1,4 +1,5 @@
 
-
-
 THEME=dark-cyan
+
+
+TERM_FONT_SIZE=7
