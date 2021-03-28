@@ -3,3 +3,6 @@ THEME=dark-cyan
 
 
 TERM_FONT_SIZE=7
+
+
+BAR_MONITOR=eDP1
