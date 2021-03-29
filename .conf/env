@@ -1,5 +1,5 @@
 
-THEME=${THEME:-light-pink}
+THEME=${THEME:-dark-cyan}
 
 
 TERM_FONT_SIZE=7
