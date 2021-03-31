@@ -1,3 +1,4 @@
+DEVICE_NAME=carrot
 
 THEME=${THEME:-dark-cyan}
 
