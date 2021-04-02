@@ -1,1 +1,1 @@
-This repository is managed by comango.
+Base comango configuration for carrot.
