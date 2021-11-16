@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+xbacklight -inc $1
+xbacklight -get > $HOME/.backlight
