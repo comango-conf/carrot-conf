@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-#HOOKS INTO wminit
+#HOOKS INTO unused
 
 value="$(cat $HOME/.backlight 2> /dev/null || echo 50)"
 
