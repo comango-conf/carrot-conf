@@ -1,4 +1,5 @@
 desktop-environment
 ssh
 awesome
-xmonad
+picom
+x11
