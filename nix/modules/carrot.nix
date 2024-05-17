@@ -8,17 +8,14 @@
     device = "nodev";
   };
  
-  services.xserver = {
+  services = {
     displayManager = {
       gdm.enable = true;
       defaultSession = "gnome";
     };
+
     desktopManager = {
       gnome.enable = true; 
-    };
-
-    windowManager = {
-      awesome.enable = true;
     };
 
     xkb = {
